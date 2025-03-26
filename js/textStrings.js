@@ -214,102 +214,104 @@ var textStrings_DE = {
 
 var textStrings_FA = {
 	// Act 1
-	"niceHat": "!به به! چه کلاه خفنی",
-	"outtaHere": "!برو گمشو بیرون",
-	"getARoom": "زوجین عزیز! میدونین گشت ارشاد چیه؟",
-	"notCoolAnymore": "!دیگه کلاه خز شده",
-	"tvOnTv": "! عجب ! تلوزیون تو تلوزیون",
-	"cricky": "^_^ گوگولی",
-	"tooManyCrickets": "!انقدر گوگولی هم دیگه نوبره",
-	"normalPeep": "یه بنده خدایِ معمولی",
-	"normalPeeps": "چندتا آدمِ معمولی",
-	"wowNothing": "عکاس کی بودی تو؟",
+	"niceHat": "OOH NICE HAT",
+	"outtaHere": "yeah git on outta here",
+	"getARoom": "GROSS, GO GET A ROOM",
+	"notCoolAnymore": "nvm hats aren't cool anymore",
+	"tvOnTv": "A TV... ON TV!",
+	"cricky": "LIL' CRICKY <3",
+	"tooManyCrickets": "okay that's too many crickets",
+	"normalPeep": "just a normal peep",
+	"normalPeeps": "just some normal peeps",
+	"wowNothing": "WOWWEE, IT'S NOTHING",
 
 	// Act 2
-	"crazySquareAttacks": "!کله مربعی هایِ وحشی ",
-	"justMissed": "!خیلی نزدیک بود",
-	"somethingInteresting": "!عکس ات باید یه موضوع جالب رو نشون بده",
-	"whoIsScreaming": "!تو عکس کسی که سرش داد میزنن هم باشه",
-	"circleFearsSquares": "!کله گرد ها از کله مربعی ها میترسن ",
-	"whoScaresThem": "از دست کی ترسیدن اینا؟",
-	"areTheyScared": "!وقتی از یه کله مربعی ترسیدن ازشون عکس بگیر", // not used
-	"squaresSnubCircles": "!کله مربعی ها کله گردها رو سرزنش می کنن ",
-	"areTheySnubbed": "!موقع سرزنش کردنشون ازشون عکس بگیر", // not used
-	"everyoneHates": "!الان همه از همه بدشون میاد",
-	"almostEveryoneHates": "!کم کم همه دارن از همدیگه بدشون میاد ",
-	"squaresHateCircles": "!کله مربعی ها حالشون از کله گردها بهم میخوره ",
-	"circlesHateSquares": "!کله گردها از کله مربعی ها متنفرن ",
-	"areTheyYelling": "!زمانیکه دارن سر همدیگه داد میزنن ازشون عکس بگیر", // not used
-	"nerdsNow": "ساقی شون کیه بالاغیرتا؟",
-	"schockedPeep": "چرا پشمای این بشر ریخته؟",
-	"whatever": "!به اونجام",
+	"crazySquareAttacks": "CRAZED SQUARE ATTACKS",
+	"justMissed": "oooooh just missed it",
+	"somethingInteresting": "(ya gotta catch 'em doing *something* interesting...)",
+	"whoIsScreaming": "(ya gotta catch who's screaming at 'em)",
+	"circleFearsSquares": "CIRCLE FEARS SQUARES",
+	"whoScaresThem": "(ya gotta also catch *who* they're scared by)",
+	"areTheyScared": "(ya gotta catch 'em *being* scared by a square)", // not used
+	"squaresSnubCircles": "SQUARES SNUB CIRCLES",
+	"areTheySnubbed": "(ya gotta catch 'em *while* snubbing a circle)", // not used
+	"everyoneHates": "EVERYONE HATES EVERYONE!!1!",
+	"almostEveryoneHates": "ALMOST EVERYONE HATES EVERYONE...",
+	"squaresHateCircles": "SQUARES HATE CIRCLES",
+	"circlesHateSquares": "CIRCLES HATE SQUARES",
+	"areTheyYelling": "(ya gotta catch 'em *yelling* at others)", // not used
+	"nerdsNow": "what are these nerds doing now",
+	"schockedPeep": "why's this peep shocked?",
+	"whatever": "whatever",
 
 	// Act 3
 	"ellipsis": ". . .",
-	"coolNoMore": "شنیدی میگن کلاه دیگه خز شده؟",
-	"beScared": "!یا ابوالفضل",
+	"coolNoMore": "hats ain't cool no more, haven't you heard?",
+	"beScared": "BE SCARED. BE ANGRY.",
 
 	// MANIFESTO
 	"manifesto": [
 		//"as if you viewers want GOOD news"       ,
-		"!تماشای زندگی صلح آمیز خیلی جالب نیس دیگه",
-		"!صلح و شادی خز شده! وحشی گری باحاله الان",
-		"...هر داستانی هم که گره ای میخواد",
-		"!پس به مخاطب همون چیزی رو بده که میخواد"
+		"who tunes in to watch *people get along?*",
+		"peace is boring. violence goes viral.",
+		//"peace is boring. conflict gets clicks." ,
+		"and every story needs a conflict, so...",
+		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
+		"GIVE THE AUDIENCE WHAT THEY WANT."
 	],
 
 	// -- Strings currently in graphics resources --
 
 	// (bg_preload.png) Preload screen
-	"playingTime": "!زمان بازی: حداکثر 5 دقیقه ",
-	"warning": "!هشدار! این بازی حاوی صحنه خشونت آمیز هست",
+	"playingTime": "playing time: 5 minutes",
+	"warning": "warning: the following program\ncontains scenes of snobbery,\nrudeness & mass murder.\nviewer discretion is advised.",
 
 	// (cam-instructions.png) Camera Instructions
-	"pointAndClick": "!کادر ببند و عکس بگیر",
+	"pointAndClick": "POINT & CLICK",
 
 	// (chyron3.png)
-	"chyronNothing": "!عکس ات بدرد نمی خوره",
+	"chyronNothing": "WOWWEE, IT'S *NOTHING*",
 
 	// (credits0001.png)
-	"createdBy": ":ترجمه از",
-	"NickyCase": "Ali Fazeli",
+	"createdBy": "created by",
+	"NickyCase": "Nicky Case",
 
 	// (credits0002.png)
-	"manyThanks": " :ممنون از",
+	"manyThanks": "many thanks to my playtesters:",
 
 	// (credits000[3,4,5,6].png)
-	"patreonSupporters": ":با تشکر از",
+	"patreonSupporters": "and to my patreon supporters:",
 
 	// (credits0007.png)
-	"lastButNotLeast": "...و در آخر",
+	"lastButNotLeast": "and last but not least,",
 
 	// (credits0008.png)
-	"thankYouForPlaying": "!مرسی از شما دوست عزیز",
+	"thankYouForPlaying": "thank YOU for playing!",
 
 	// (preload_play.png)
-	"playButton": "!بسم الله",
+	"playButton": "PLAY",
 
 	// (end_button.png) Post Credits
-	"otherWorkButton": "بقیه بازیاتون چیاس؟",
-	"buyCoffeeButton": "!یه قهوه برام بخر خب",
-	"replayButton": "دوباره بازی کنم؟",
+	"otherWorkButton": "see my other work",
+	"buyCoffeeButton": "buy me a coffee",
+	"replayButton": "replay this mess",
 
 	// (logo.png) Post Credits
-	"logoWBWWB": "اشتراک گذاری",
+	"logoWBWWB": "SHARE THE PAIN:",
 
 	// (end_prototype.png)
-	"endOfPrototype": "پایان شبیه سازی",
-	"toBeContinued": "...ادامه دارد",
+	"endOfPrototype": "END OF PROTOTYPE",
+	"toBeContinued": "(to be continued!)",
 
 	// (quote0002.png)
-	"WBWWB": "!تو همان که می نَمایی هستی",
+	"WBWWB": "We become what we behold.",
 	"WSOTATOTSU": "We shape our tools and then our tools shape us.",
 
 	// (quote0003.png)
 	"MarshallMcLuhan": "Marshall McLuhan",
 
 	// (quote0004.png)
-	"misatrributed": "(!با مقداری تغییر)",
+	"misatrributed": "(misattributed)",
 };
 // Brazilian Portuguese translation.
 // by Filipe Daineze https://github.com/fddaineze
